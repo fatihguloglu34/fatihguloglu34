@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Fatih</h1>
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Management+Information+Systems+Student;Software+Development+Enthusiast;Interested+in+Data+Engineering" />
-</p>
 
 <h3 align="center">
 Management Information Systems Student
@@ -37,15 +34,12 @@ Management Information Systems Student
 </p>
 
 ---
----
 
-### GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=fatihguloglu34&show_icons=true&theme=tokyonight" />
-</p>
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatihguloglu34&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fatihguloglu34&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatihguloglu34&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
+
 
